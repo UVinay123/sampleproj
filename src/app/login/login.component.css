@@ -1,0 +1,13 @@
+.login-card{
+    width: 350px;
+    align-items: center;
+}
+.center {
+    text-align: center;
+  }
+  
+  .center mat-card {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+  }
